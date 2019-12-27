@@ -25,7 +25,7 @@ Na tela de scan, ele abre como se fosse um Bar code scan, mas, se enquadrar o QR
 
 <p align="center">
   <img src="./assets/tela de leitura do qr code.png"><br/>
-  Tela Principal
+  Tela de Scan
 </p>
 
 ### Tela de resultado
@@ -58,6 +58,6 @@ essa função irá pegar o texto ou numeração que foi lida e irá gerar um nov
 
 <p align="center">
   <img src="./assets/WhatsApp Image 2019-12-27 at 13.21.54.jpeg"><br/>
-  Tela Principal
+  Tela de resultado
 </p>
 
