@@ -13,7 +13,7 @@ O Leitor de QR Code é um aplicativo android feito para ler  e gerar QR Codes e 
 Ao executar a aplicação, o usuário é apresentado à tela principal do leitor de QR Code. A tela possui um botão que inicia o scan do QR code ou do Bar Code:
 
 <p align="center">
-  <img src="./assets/Tela principal do qr code.png">
+  <img src="./assets/Tela principal do qr code.png"><br/>
   Tela Principal
 </p>
 
