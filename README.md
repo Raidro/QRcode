@@ -14,9 +14,7 @@ Ao executar a aplicação, o usuário é apresentado à tela principal do leitor
 
 ![](assets/Tela principal do qr code.png)
 
-```
-                                 Tela Principal
-```
+
 
 
 
