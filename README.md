@@ -14,7 +14,15 @@ Ao executar a aplicação, o usuário é apresentado à tela principal do leitor
 
 <p align="center">
   <img src="./assets/Tela principal do qr code.png">
+  Tela Principal
 </p>
+
+### Escaneando o QR e Bar Code
+
+---
+
+Na tela de scan, ele abre como se fosse um Bar code scan, mas, se enquadrar o QR Code dentro, ele irá ler sem problemas.
+
 
 
 
