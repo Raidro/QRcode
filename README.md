@@ -24,7 +24,7 @@ Ao executar a aplicação, o usuário é apresentado à tela principal do leitor
 Na tela de scan, ele abre como se fosse um Bar code scan, mas, se enquadrar o QR Code dentro, ele irá ler sem problemas.
 
 <p align="center">
-  <img src="./assets/assets/tela de leitura do qr code.png"><br/>
+  <img src="./assets/tela de leitura do qr code.png"><br/>
   Tela Principal
 </p>
 
@@ -57,7 +57,7 @@ public void GeradorQRCode() throws WriterException {
 essa função irá pegar o texto ou numeração que foi lida e irá gerar um novo QR/Bar code com a mesma informação e mostrará em tela para que outro dispositivo possa ler:
 
 <p align="center">
-  <img src="./assets/assets/assets/WhatsApp Image 2019-12-27 at 13.21.54.jpeg"><br/>
+  <img src="./assets/WhatsApp Image 2019-12-27 at 13.21.54.jpeg"><br/>
   Tela Principal
 </p>
 
